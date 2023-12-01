@@ -1,0 +1,18 @@
+Setting up the Polatis ...
+Monitoring ...
+ADVA_1_TF1_p1 (9): -29.09 dBm ---> ADVA_1_8PSM_p1 (331): -47.96 dBm
+ADVA_1_8PSM_p1 (11): 4.97 dBm ---> ADVA_1_TF1_p1 (329): 3.24 dBm
+ADVA_1_TF1_p2 (10): -5.08 dBm ---> ADVA_1_8PSM_p2 (332): -6.71 dBm
+ADVA_1_8PSM_p2 (12): 5.10 dBm ---> ADVA_1_TF1_p2 (330): 3.41 dBm
+ADVA_2_TF1_p1 (13): -5.08 dBm ---> ADVA_1_8PSM_p3 (335): -6.65 dBm
+ADVA_1_8PSM_p3 (15): 5.14 dBm ---> ADVA_2_TF1_p1 (333): 3.47 dBm
+ADVA_2_TF1_p2 (14): -28.11 dBm ---> ADVA_1_8PSM_p4 (336): -47.25 dBm
+ADVA_1_8PSM_p4 (16): 4.45 dBm ---> ADVA_2_TF1_p2 (334): 2.49 dBm
+ADVA_1_8PSM_line (8): -1.40 dBm ---> ADVA_1_D20 (327): -3.23 dBm
+ADVA_1_D20 (7): 20.18 dBm ---> ADVA_1_voa2 (324): 18.27 dBm
+ADVA_1_voa2 (4): 17.21 dBm ---> ADVA_1_8PSM_line (328): 15.37 dBm
+Lumentum_1_p1 (118): -3.91 dBm ---> Lumentum_2_p1 (436): -5.31 dBm
+Lumentum_2_line (100): 13.53 dBm ---> ADVA_1_voa1 (323): 12.11 dBm
+ADVA_1_voa1 (3): 10.78 dBm ---> ADVA_1_8PSM_p5 (325): 8.96 dBm
+Laser_N7711A_1 (33): 6.62 dBm ---> Lumentum_2_line (420): 5.16 dBm
+ADVA_1_8PSM_p6 (6): 5.17 dBm ---> OSA_MS9710C_1 (369): 3.37 dBm
